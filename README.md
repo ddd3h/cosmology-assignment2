@@ -9,7 +9,7 @@ Before running the script, ensure that the following are installed on your syste
 - GCC (for compiling the C program)
 - Python 3 (for running Python scripts)
 - Virtual environment support for Python (`venv`)
-- Required Python packages listed in `requirements.txt`
+- ~~Required Python packages listed in `requirements.txt`~~
 
 ### Steps to Run
 1. Open a terminal in the project directory.
